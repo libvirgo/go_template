@@ -1,0 +1,7 @@
+debug = true
+port = 12345
+db_dsn = "file:sqlite3.db?cache=shared&mode=rwc&_fk=1"
+
+[redis]
+addr = "localhost:6380"
+password = ""
